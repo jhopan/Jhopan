@@ -89,7 +89,7 @@ Custom VPN clients built from scratch — sing-box & Xray core, native TUN, prog
 <div align="center">
 
 ![Stats](https://github-readme-stats-one-psi.vercel.app/api?username=jhopan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com/?user=jhopan&theme=github-dark-blue&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhopan&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 ![Top Langs](https://github-readme-stats-one-psi.vercel.app/api/top-langs/?username=jhopan&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
